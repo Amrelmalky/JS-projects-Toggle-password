@@ -1,7 +1,6 @@
-// Toggle password 
-https://amrelmalky.github.io/JS-projects-Toggle-password/
-Change Input type from password to text
+// Toggle password https://amrelmalky.github.io/JS-projects-Toggle-password/ 
 
+Change Input type from password to text
 1) HTML
 =============
 Create input type password
