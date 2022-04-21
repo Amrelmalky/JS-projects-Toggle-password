@@ -1,4 +1,5 @@
-// Change Input type from password to text
+// Toggle password https://amrelmalky.github.io/JS-projects-Toggle-password/
+Change Input type from password to text
 
 1) HTML
 =============
@@ -34,3 +35,4 @@ Logic :
                                                                   => Convert button custom attribute to be data-tex ="password" 
                                                                   => Convert button text content to show  
 
+![image](https://user-images.githubusercontent.com/69693889/164547731-bce9266b-d632-41f9-a474-f97aaa9095cc.png)
